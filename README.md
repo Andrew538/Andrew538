@@ -5,6 +5,9 @@
 - [Сайт кафе - бургерной](https://andrew538.github.io/Module01-Burger/index.html).
 - [Фитнес-зал](https://andrew538.github.io/Module01-Gym/).
 - [Сайт онлайн магазина здорового питания](https://andrew538.github.io/Module02-shop/dist/index.html).
+- [Страница сайта туристической фирмы](http://e2222uee.beget.tech/index.html).
+- [Валидация формы](https://andrew538.github.io/Digital-element/index.html?telephone=&password=).
+
 
 
 ##### Связаться со мной: 
