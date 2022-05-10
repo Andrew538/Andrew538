@@ -2,7 +2,8 @@
 ## Я Web -разработчик.
 ### Чем я занимаюсь: адаптивная, кросбраузерная, валидна верстка макетов ( PSD и Figma )
 #### Примеры моих работ:
-#### [Сайт кафе - бургерной](https://andrew538.github.io/Module01-Burger/index.html).
+- [Сайт кафе - бургерной](https://andrew538.github.io/Module01-Burger/index.html).
+- [Фитнес-зал](https://andrew538.github.io/Module01-Gym/)
 
 
 ##### Связаться со мной: 
