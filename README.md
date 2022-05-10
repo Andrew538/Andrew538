@@ -3,7 +3,8 @@
 ### Чем я занимаюсь: адаптивная, кросбраузерная, валидна верстка макетов ( PSD и Figma )
 #### Примеры моих работ:
 - [Сайт кафе - бургерной](https://andrew538.github.io/Module01-Burger/index.html).
-- [Фитнес-зал](https://andrew538.github.io/Module01-Gym/)
+- [Фитнес-зал](https://andrew538.github.io/Module01-Gym/).
+- [Сайт онлайн магазина здорового питания](https://andrew538.github.io/Module02-shop/dist/index.html).
 
 
 ##### Связаться со мной: 
